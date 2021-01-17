@@ -1,0 +1,1 @@
+https://gitee.com/ak2/p10k_config/raw/master/.p10k.zsh
